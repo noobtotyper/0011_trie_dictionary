@@ -5,4 +5,6 @@ The main file is trie_dict.py
 
 Execute it with "python3 trie_dict.py".
 
+It is designed so it runs on the phone using Termux.
+
 It works for the German language, it requires some tweaking for other languages.
